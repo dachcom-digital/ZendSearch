@@ -1,9 +1,5 @@
 # ZendSearch component
 
-> ## UNMAINTAINED
->
-> This package is no longer maintained.
-
 You can install using:
 
 ```
