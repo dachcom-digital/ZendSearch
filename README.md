@@ -1,4 +1,7 @@
 # ZendSearch component
+![Latest Version](https://img.shields.io/github/v/tag/dachcom-digital/zendsearch.svg?style=flat-square)
+
+This is a fork of [ZendSearch](https://github.com/zendframework/ZendSearch)
 
 You can install using:
 
